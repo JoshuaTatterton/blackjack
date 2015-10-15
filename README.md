@@ -2,7 +2,7 @@
 
 As part or the Ronin group we participated in the Makerthon exercise which was to rapidly create an MVP (minimum viable product) for a project of our choice. We chose to make a game of blackjack, due to the short timespan of 2 days with half a third day to make final alterations and to deploy. Due to this time constraint our MVP consisted of playing a solo game where you can hit until you bust and start a new game. Also due to this constraint we were not able to apply a database to our website and instead it uses a cruder method for persisting state.
 
-Please find the website on Heroku [here](https://pure-refuge-7844.herokuapp.com/)
+Please find the website on Heroku [here](https://serene-caverns-7356.herokuapp.com)
 
 #### Skills Used
 
